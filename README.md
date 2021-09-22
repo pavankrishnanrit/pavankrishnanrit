@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>     
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
@@ -82,24 +83,18 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="https://github.com/solomonsanthosh/github-readme-activity-graph"><img alt="solomonsanthosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=solomonsanthosh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/pavankrishnanrit/github-readme-activity-graph"><img alt="pavankrishnanrit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=R.Pavankrishnan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/solomon-santhosh-i-it-4854a3212"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/profile.php?id=100029976981387"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/solomon_santy/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=solomonsanthosh">
+    <img src="https://komarev.com/ghpvc/?username=R.Pavankrishnan">
 </a>
-<a href="https://github.com/solomonsanthosh?tab=followers"><img src="https://img.shields.io/github/followers/solomonsanthosh?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/pavankrishnanrit?tab=followers"><img src="https://img.shields.io/github/followers/pavankrishnanrit?label=Followers&style=social" alt="GitHub Badge"></a>
 
