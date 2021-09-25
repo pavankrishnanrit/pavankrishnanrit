@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="https://github.com/pavankrishnanrit/github-readme-activity-graph"><img alt="pavankrishnanrit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=R.Pavankrishnan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/pavankrishnanrit/github-readme-activity-graph"><img alt="pavankrishnanrit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pavankrishnanrit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=R.Pavankrishnan">
+    <img src="https://komarev.com/ghpvc/?username=pavankrishnanrit">
 </a>
 <a href="https://github.com/pavankrishnanrit?tab=followers"><img src="https://img.shields.io/github/followers/pavankrishnanrit?label=Followers&style=social" alt="GitHub Badge"></a>
 
